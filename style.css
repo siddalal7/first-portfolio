@@ -44,6 +44,12 @@ ol{
 p{
     color:darkslategrey;
     font-family: Tahoma;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+hr{
+    width:50%;
 }
 /*only changing footer h3*/
 footer h3{
